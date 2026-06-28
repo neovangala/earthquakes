@@ -1,1 +1,1 @@
-# Earthquakes
+# Earthquakes (Summer Project)
